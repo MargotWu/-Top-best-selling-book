@@ -2,7 +2,12 @@
 
 Research Questions
 1.sort the data frame of five most popular books
+
+
 2.sort the data frame of the five most expensive books
+
+
+
 3.make a bar chart of the books published in 1998
 
 
